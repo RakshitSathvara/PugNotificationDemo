@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements ImageLoader {
     private String url = "http://www.pixelstalk.net/wp-content/uploads/2016/03/computer-hd-wallpaper-full-size-free-download-3D.jpg";
     private Target viewTarget;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
